@@ -2,7 +2,7 @@
 
 alpaca_trade_api>=2.1.0
 ccxt==1.90.1
-elegantrl
+# elegantrl
 
 # market data & paper trading API
 exchange_calendars==4.1.1
